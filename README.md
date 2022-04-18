@@ -1,6 +1,6 @@
 # Bootcamp Órbi web games developer
 
-### primeiro commit 
+### Primeiro commit 
 
-Criação do arquivo readme.me
+Criação do arquivo README.md
 
